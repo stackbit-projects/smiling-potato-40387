@@ -7,7 +7,7 @@ collections:
 palette: blue
 header:
   logo_img: images/white_logo_transparent_background.png
-  has_nav: true
+  has_nav: false
   nav_links:
     - label: Home
       url: /
