@@ -15,7 +15,7 @@ header:
       url: /features
     - label: Pricing
       url: /pricing
-    - label: Style Guide
+    - label: 'Style '
       url: /style-guide
     - label: Sign Up
       url: /signup
