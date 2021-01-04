@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 palette: blue
 header:
-  logo_img: images/white_logo_transparent_background.png
+  logo_img: images/lws-google-apps.jpg
   has_nav: true
   nav_links:
     - label: Home
