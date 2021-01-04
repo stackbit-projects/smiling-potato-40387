@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 palette: blue
 header:
-  logo_img: images/logo.png
+  logo_img: images/white_logo_transparent_background.png
   has_nav: true
   nav_links:
     - label: Home
