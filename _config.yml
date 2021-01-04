@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 palette: blue
 header:
-  logo_img: images/logo.png
+  logo_img: images/lws-google-apps.jpg
   has_nav: true
   nav_links:
     - label: Home
@@ -15,7 +15,7 @@ header:
       url: /features
     - label: Pricing
       url: /pricing
-    - label: Style Guide
+    - label: Style
       url: /style-guide
     - label: Sign Up
       url: /signup
