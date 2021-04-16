@@ -73,3 +73,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://smiling-potato-40387.netlify.app'
